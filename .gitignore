@@ -1,0 +1,18 @@
+# Credenciais
+secrets/
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Backups
+data/backup/
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
